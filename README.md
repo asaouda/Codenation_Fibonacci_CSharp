@@ -1,7 +1,7 @@
 # Fibonacci
 
 Faça um método `Fibonacci` que retorne uma lista `List<int>` com os primeiros números `int`  de *Fibonacci* até *350*.
-
+ss
 > A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
 
 Faça um segundo método `IsFibonnaci` que recebe um `int` como parâmetro e retorne `bool`.
