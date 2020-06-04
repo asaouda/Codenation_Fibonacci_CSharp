@@ -28,10 +28,8 @@ namespace Codenation.Challenge
                     else if (soma > 350)
                     {
                         break;
-                    }
-                    
+                    }   
                 }
-
                 numeroFibonacci = numeros[numeros.Count-1];
             }
             return numeros;
